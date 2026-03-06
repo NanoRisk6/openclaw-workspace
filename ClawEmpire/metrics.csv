@@ -1,0 +1,2 @@
+date,profit_delta,fleet_size,vps_costs,total_buffer,errors,idle_pct,sandbox_count,replication_attempts,blocked_tier3,notes
+2026-03-06,0,0,0,0,0,100,0,0,0,"Heartbeat snapshot"
